@@ -2,7 +2,7 @@ import React from 'react';
 import './Portfolio.css';
 import imgProject1 from '../assets/hello pilot.png';
 import imgProject2 from '../assets/WhoWon.jpg';
-import imgProject3 from '../assets/ironpump.png';
+import imgProject3 from '../assets/todo-list.png';
 
 const portfolioItemsData = [
   {
@@ -22,9 +22,9 @@ const portfolioItemsData = [
   {
     id: 3,
     image: imgProject3,
-    title: 'Iron Pump',
-    github: 'https://github.com/andresvaz89/Project-3---IronPump',
-    demo: 'https://ironpump.onrender.com/'
+    title: 'Todo list in React',
+    github: 'https://github.com/andresvaz89/react-todo-list',
+    demo: 'https://react-todo-list-andres.netlify.app/'
   }
 ];
 

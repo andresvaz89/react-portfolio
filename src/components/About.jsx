@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>+3 years</small>
+              <small>+1 year</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
@@ -35,10 +35,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia in
-            minima accusamus, natus, quisquam molestiae aliquam vero esse ipsa
-            nesciunt, atque aperiam quidem fuga voluptatem fugit quod quis
-            delectus error.
+            Welcome to my web developer portfolio! I'm Andrés, a dedicated and
+            skilled web developer with one year of experience in crafting
+            immersive and user-friendly websites. I take pride in my ability to
+            turn ideas into visually stunning and functional digital
+            experiences.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's talk
